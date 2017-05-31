@@ -63,13 +63,8 @@ nav {
     position: absolute;
     right: 15px;
 }
-/*.svg_main_header:nth-child(1) {
-    right: 15px;
-}*/
+
 .svg_2 {
     right: 45px;
 }
 
-.header-title {
-    display: flex;
-}
