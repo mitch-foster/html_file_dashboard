@@ -57,14 +57,26 @@ nav {
     padding-top: 15px;
     padding-left: 15px;
 }
+.nav_smaller_padding {
+    padding-top: 15px;
+    padding-left: 5.5px;
+}   
 
 .svg_main_header {
     margin-top: 13px;
     position: absolute;
     right: 15px;
 }
-
+.svg_middle_header_right {
+    position: absolute;
+    right: 15px;
+}
 .svg_2 {
     right: 45px;
 }
-
+.svg_3 {
+    right: 35px;
+}
+.svg_4 {
+    right: 55px;
+}
