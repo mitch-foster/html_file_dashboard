@@ -42,6 +42,11 @@ path {
     width: 750px;
     height: 800px;
 }
+.bottom_right_corner {
+    position: absolute;
+    right: 5px;
+    bottom: -125px; 
+}
 
 
 .top_header {
@@ -79,4 +84,20 @@ nav {
 }
 .svg_4 {
     right: 55px;
+}
+.product_wrapper {
+    background-color: blue;
+    width: 750px;
+    height: 650px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.box {
+    background-color: slategrey;
+    height: 15%;
+    width: 15%;
+    
 }
